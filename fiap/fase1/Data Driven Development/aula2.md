@@ -98,6 +98,10 @@
 # Obs
 - Deve ter um bom **roteiro e uma boa sequência lógica**.
 - Autores
- - Stefan Hofer e Henning Schwenter.
+  - Stefan Hofer e Henning Schwenter.
+- Livros:
+  - DDD - Eric Evans
+  - Implementando DDD: Vaughn Vernon
+  - Learning DDD: Vlad Khononov
 - Os números sequências podem sofrer alterações
 - Soluções criadas **não** nascerão imediatamente com a nova realidade, mas pode ser algo que irá ser implementado no futuro.
